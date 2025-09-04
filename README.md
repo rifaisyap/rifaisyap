@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rifa Aisya Putri 👋
 
-<!--
-**rifaisyap/rifaisyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc of Business Analytics @ Nanyang Technological University (Singapore)  
+📍 Based in Singapore | 🌏 Originally from Indonesia
+📊 Passionate about **marketing and business analysis**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech & Tools
+`Python` · `R` · `SQL` · `Tableau` · `Power BI` · `Excel` · 
+
+---
+
+## 🤝 Let’s Connect
+- [LinkedIn]([https://www.linkedin.com/in/[your-handle]](https://www.linkedin.com/in/rifaaisyaputri/))  
+- [Email](rifa.putriaisya@gmail.com)  
+
+---
